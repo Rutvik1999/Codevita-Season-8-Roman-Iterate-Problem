@@ -21,7 +21,9 @@ Explanation
 Example 1 Input
 1
 Output
-45338950 Explanation The procedure goes as follows in this case:
+45338950 
+Explanation:
+The procedure goes as follows in this case:
 Accept N = 1.
 Since 1 lies in [1,3999], covert it to Roman R = I.
 The least value of I (in bases 19 and above) is 18 in base 10. Hence N = 18.
